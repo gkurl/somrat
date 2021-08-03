@@ -179,6 +179,7 @@ body {
   z-index: 10;
   top: 2px;
   left: 40px;
+  padding-top: 10px;
 }
 
 .no-js .logo {
@@ -186,7 +187,8 @@ body {
 }
 
 .logo img {
-  width: 205px;
+  width: 50px;
+  padding-top: 10px;
 }
 
 .owl-carousel.owl-full-width {
@@ -1922,6 +1924,9 @@ textarea.form-control::-webkit-input-placeholder,
 @media (max-width: 767px) {
   .logo {
     left: 10px;
+    width: 50px;
+    padding-top: 25px;
+    padding-left: 15px;
   }
 
   .header .logo img {
