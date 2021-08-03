@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://master.d3vn1zkjqucv4l.amplifyapp.com/"
 title = "Somrat | Hugo Portfolio Template"
 theme = "somrat"
 # post pagination
@@ -128,11 +128,11 @@ pre = "#"
 url = "service"
 weight = 3
 
-[[Languages.en.menu.main]]
-name = "Portfolio"
-pre = "#"
-url = "portfolio"
-weight = 4
+# [[Languages.en.menu.main]]
+# name = "Portfolio"
+# pre = "#"
+# url = "portfolio"
+# weight = 4
 
 [[Languages.en.menu.main]]
 name = "Testimonial"
